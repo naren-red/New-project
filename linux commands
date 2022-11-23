@@ -1,4 +1,18 @@
 sudo su -
+mkdir <name>
+cd <name>
+cd ..
+rmdir <name>
+touch <file name>
+vi <file name>
 apt/yum install git 
 git init 
 git --version
+ls -l
+ls -la
+git clone <url>
+git ls -files
+git status
+git add <file name >
+git commit -m "first commit" 
+git push <file name>
